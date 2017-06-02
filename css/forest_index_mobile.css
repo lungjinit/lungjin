@@ -1,0 +1,154 @@
+p{
+	line-height:1.7;
+}
+hr{
+	display:block;
+	padding:1px;
+	background:#333;
+	margin:30px 0;
+}
+.nav>li>a{
+	padding:18px 12px;
+}
+.logo_s{
+	width:80%;
+	height:auto;
+	margin-top:1%;
+	margin-left:5%;
+}
+.img_box01{
+	width: 100%;
+	height: 0;
+	overflow:hidden;
+	padding-bottom:43.1%;
+}
+.margb{
+	margin-bottom:30px;
+}
+#features{
+	padding:20px 0;
+}
+#features h2{
+	color:#005396;
+	font-weight: 600;
+}
+#features p{
+	font-size: 15px;
+}
+.margb img{
+	padding-right:20px;
+}
+
+.img_box02{
+    width: 100%;
+    height: 0;
+    overflow: hidden;
+    padding-bottom: 154%;
+    margin: 0 auto;
+}
+.img_box02 img{
+	width:100%;
+	height:auto;
+}
+.img_box img{
+	width:100%;
+	height:auto;
+}
+.fontcolor{
+	color:#000;
+}
+.fontcolor p{
+	font-size: 15px;
+	height:145px;
+	overflow:hidden;
+}
+.fontcolor h3{
+	font-weight:600;
+}
+.gremp{
+	padding-right:20px;
+}
+.border_bg{
+	border:1px solid #333;
+	box-shadow:5px 5px 15px #000;
+	margin-top:2%;
+	padding-bottom:2%;
+	background-image:url('../imgs/about_smbg.png');
+	background-position:-1px 100%;
+	background-repeat:no-repeat;
+}
+#about {
+    color: #333;
+    padding: 0px 0 0px 0;
+}
+.hide_img01{
+	display:block;
+}
+.hide_img02{
+	display:none;
+}
+.img_box03{
+	width: 100%;
+	height: 0;
+	overflow:hidden;
+	padding-bottom:62.5%;
+}
+.about_img{
+	width:100%;
+	height:auto;
+	padding-top:3%;
+}
+#about h2 {
+	color:#005396;
+    font-weight: 800;
+    padding: 20px 0 0px 0;
+}
+#portfolio {
+    text-align: center;
+    padding: 20px 0;
+}
+#portfolio h2{
+	color:#fff;
+	margin-bottom:20px;
+	font-weight:800;
+}
+.pro_bg{
+	background-image:url('../imgs/product_bg.jpg');
+	background-repeat: no-repeat;
+    background-size: cover;
+    height:140px;
+}
+.pro_bg p{
+	color:#fff;
+	padding-bottom:20px;
+	line-height:1.7;
+}
+.pormtop{
+	margin-top:20px;
+}
+.pormtop h3{
+	font-weight:600;
+}
+
+
+
+#contact .flt{
+	float:left;
+}
+span.clearflt{
+	clear:both;
+	display:block;
+	font-size:18px;
+}
+#contact h2, #contact h3 {font-weight:bold; }
+.contact_sbg{
+	background-image:url('../imgs/contact_sbg.png');
+	background-repeat: no-repeat;
+	background-size:288px 120px;
+	padding-bottom:12px;
+}
+
+#contact .address {
+    padding: 20px;
+    padding-top: 0;
+    margin-top: 6%;
